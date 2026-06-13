@@ -2,7 +2,7 @@
 
 > A professional, dark-themed browser start page built with pure HTML, CSS, and Vanilla JavaScript. No frameworks. No dependencies. Just clean, fast, elegant code.
 
-**Built by Sahil Maurya** &nbsp;|&nbsp; 🌐 **[Live Demo → hacker-homepage.vercel.app](https://hacker-homepage.vercel.app/)**
+**Built by Kairos** &nbsp;|&nbsp; 🌐 **[Live Demo → hacker-homepage.vercel.app](https://hacker-homepage.vercel.app/)**
 
 ---
 
